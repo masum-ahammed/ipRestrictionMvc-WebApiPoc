@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpRestrictPoc", "IpRestrictPoc\IpRestrictPoc.csproj", "{2675A39B-9B86-4385-89AB-61EACFFB6163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ipRenge.test", "ipRenge.test\ipRenge.test.csproj", "{EBF881A9-B9D8-4F80-9B99-76B2E31B070A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2675A39B-9B86-4385-89AB-61EACFFB6163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2675A39B-9B86-4385-89AB-61EACFFB6163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2675A39B-9B86-4385-89AB-61EACFFB6163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2675A39B-9B86-4385-89AB-61EACFFB6163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF881A9-B9D8-4F80-9B99-76B2E31B070A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF881A9-B9D8-4F80-9B99-76B2E31B070A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF881A9-B9D8-4F80-9B99-76B2E31B070A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF881A9-B9D8-4F80-9B99-76B2E31B070A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96070217-FC10-4C73-B173-CCE5E63A6A3B}
+	EndGlobalSection
+EndGlobal
